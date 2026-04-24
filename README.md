@@ -1,9 +1,7 @@
 # project2026
-Modelling, testing, and a simulator.
+## Modelling, testing, and a simulator.
 
-
-
-
+\n\n
 
 简单说说校园建模要做些什么：
 
